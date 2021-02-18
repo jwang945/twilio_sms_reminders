@@ -1,0 +1,18 @@
+{
+    "reminders": [
+        {
+            "id": "b25be29947684ebe8c632f139d1ad85e",
+            "phone_number": "+19086162058",
+            "message": "Hi Honey",
+            "interval": "monthly",
+            "due_date": "2021-03-18"
+        },
+        {
+            "id": "33e733bb5bbe45a897f84f1c454ddfd9",
+            "phone_number": "+19086162058",
+            "message": "I see u",
+            "interval": "monthly",
+            "due_date": "2021-03-18"
+        }
+    ]
+}
